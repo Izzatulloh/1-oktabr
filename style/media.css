@@ -1,0 +1,153 @@
+@media (max-width:1300px) {
+               .animation_title {
+                              width: 75%;
+                              margin: auto;
+               }
+
+               .animation_text {
+                              font-size: 20px;
+                              line-height: 25px;
+               }
+
+               .header_bg {
+                              height: 80vh;
+               }
+}
+
+@media (max-width:1000px) {
+               .animation_title {
+                              width: 75%;
+                              margin: auto;
+               }
+
+               .animation_text {
+                              font-size: 18px;
+                              line-height: 22px;
+               }
+
+               .header_bg {
+                              height: 70vh;
+               }
+}
+
+@media (max-width:900px) {
+               .animation_title {
+                              width: 75%;
+                              margin: auto;
+               }
+
+               .animation_text {
+                              font-size: 16px;
+                              line-height: 20px;
+               }
+
+               .header_bg {
+                              height: 65vh;
+               }
+}
+
+@media (max-width:800px) {
+               .animation_title {
+                              width: 75%;
+                              margin: auto;
+               }
+
+               .animation_text {
+                              font-size: 15px;
+                              line-height: 18px;
+                              text-align: center;
+               }
+
+               .header_bg {
+                              height: 55vh;
+               }
+}
+
+@media (max-width:600px) {
+
+               .header_bg {
+                              height: 45vh;
+               }
+
+               .third-container_title {
+                              font-size: 30px;
+                              line-height: 35px;
+                              margin-bottom: 10px;
+               }
+
+               .third-container_last-title {
+                              font-size: 30px;
+                              line-height: 35px;
+               }
+
+               .third-section {
+                              padding: 15px 0px;
+               }
+}
+
+@media (max-width:500px) {
+
+               .header_bg {
+                              height: 35vh;
+               }
+
+               .third-container_title {
+                              font-size: 25px;
+                              line-height: 20px;
+                              margin-bottom: 5px;
+               }
+
+               .third-container_last-title {
+                              font-size: 25px;
+                              line-height: 30px;
+               }
+               
+               .third-section {
+                              padding: 10px 0px;
+               }
+               
+}
+@media (max-width:400px) {
+
+               .header_bg {
+                              height: 30vh;
+               }
+
+               .third-container_title {
+                              font-size: 20px;
+                              line-height: 20px;
+                              margin-bottom: 5px;
+               }
+
+               .third-container_last-title {
+                              font-size: 20px;
+                              line-height: 20px;
+               }
+               
+               .third-section {
+                              padding: 10px 0px;
+               }
+              
+}
+@media (max-width:400px) {
+
+               .header_bg {
+                              height: 25vh;
+               }
+
+               .third-container_title {
+                              font-size: 20px;
+                              line-height: 20px;
+                              margin-bottom: 5px;
+               }
+
+               .third-container_last-title {
+                              font-size: 20px;
+                              line-height: 20px;
+               }
+               
+               .third-section {
+                              padding:5px 0px;
+               }
+               
+}
